@@ -1,0 +1,19 @@
+Papers 1
+0 0 9 4
+38
+becker.robots.Wall 3 2 South
+becker.robots.Wall 3 2 East
+becker.robots.Wall 3 2 West
+becker.robots.Wall 2 2 West
+becker.robots.Wall 2 2 East
+becker.robots.Wall 1 2 West
+becker.robots.Wall 1 2 East
+becker.robots.Wall 0 2 North
+becker.robots.Wall 0 2 East
+becker.robots.Wall 0 1 North
+becker.robots.Wall 0 1 West
+becker.robots.Wall 1 1 West
+becker.robots.Wall 2 1 West
+becker.robots.Wall 3 1 West
+becker.robots.Wall 4 1 West
+becker.robots.Wall 4 1 South
